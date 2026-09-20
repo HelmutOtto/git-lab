@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# C/C++
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+CMakeCache.txt
+CMakeFiles/
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
